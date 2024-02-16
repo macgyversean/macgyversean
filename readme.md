@@ -5,7 +5,7 @@
 🔭 I’m currently in carolina code school.<br><br>📫 How to reach me seancarroll753@gmail.com<br><br>⚡ Fun fact about me I am also a professional photographer<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dberr715&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=dberr715&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=macgyversean&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-carroll11/) 
